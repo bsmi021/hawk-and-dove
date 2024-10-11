@@ -17,7 +17,7 @@ This simulation implements the Hawk-Dove game, a classic model in evolutionary g
 
 ## Random Seed
 
-The simulation now includes a random seed option. This feature is crucial for:
+The simulation includes a random seed option. This feature is crucial for:
 
 1. Reproducibility: By using the same seed, you can recreate identical simulation runs.
 2. Comparative Analysis: When changing parameters, using the same seed allows you to isolate the effects of the parameter changes from the randomness in the model.
